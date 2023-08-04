@@ -23,6 +23,7 @@ class MyApp extends StatelessWidget {
           ),
           headlineSmall: TextStyle(
             color: colorWhite.withOpacity(0.7),
+            fontSize: 35
           ),
         ),
       ),
